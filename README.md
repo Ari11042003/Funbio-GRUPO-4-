@@ -2,7 +2,7 @@
 
 # Funbio-GRUPO-4-
 
-Repositorio del curso "Fundamentos de Biodiseño 2023-2" UPCH
+Repositorio del curso "**Fundamentos de Biodiseño 2023-2**" UPCH
 
 ## Presentación 
 
