@@ -1,4 +1,9 @@
 # Funbio-GRUPO-4-
+
+Repositorio del curso "Fundamentos de Biodiseño 2023-2" UPCH
+
+## Presentación 
+
 Integrantes:  
 
 Claus Dereck Albrecht Narro ( Coordinador de Planos y Bocetos )
