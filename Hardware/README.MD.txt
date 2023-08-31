@@ -1,3 +1,1 @@
-holaaaaaaaaaa
-digan hola chicos
-holaaaaa
+La sección de hardware de este proyecto tiene como objetivo presentar los componentes físicos necesarios para el funcionamiento del sistema. Aquí se describen los dispositivos, circuitos y equipos involucrados, detallando sus especificaciones técnicas y su interconexión.
