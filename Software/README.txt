@@ -1,3 +1,1 @@
-holaaaaaaaaaa
-digan hola chicos
-holaaaaa
+La sección de software del proyecto aborda el aspecto intangible y programable de la solución. Aquí se explora el diseño, desarrollo e implementación de programas, algoritmos y sistemas que permiten que el hardware funcione de manera efectiva. En esta sección, se detallan las tecnologías, lenguajes de programación y enfoques utilizados para lograr los objetivos del proyecto, sentando las bases para comprender cómo se controla y gestiona el sistema en su conjunto.
