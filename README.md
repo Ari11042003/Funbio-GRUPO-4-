@@ -42,6 +42,82 @@ En la ultima década se ha experimentado algo llamado una "epidemia de cancer ti
 Debido a los motivos previamente expuestos, el cancer de tiroides cuenta con proyectos científicos en pos de diagnosticarlos con mayor precisión y predecir su agresividad utilizando técnicas como la ultrasonografía [10]. Otros se decantan por el machine learning y la inteligencia artificial para mejorar la precisión y habilidades computables de los análisis de imágenes médicas. Ayudando así a clasificar de mejor forma las posibles lesiones tiroideas, disminuyendo también el exceso de intervención que se sospecha forma parte de los motivos de la incidencia descontrolada [11]. También invenciones innovadoras como antenas que al colocarse en el cuello (en proximidad con la glándula tiroidea), es capaz de diferenciar entre las señales de las células saludables y de las cancerosas al medir el ratio de absorción específica o SAR por sus siglas en ingles, debido a la mayor cantidad de agua contenida en las células cancerosas. [12]
 
 
+## ESTADO DEL ARTE COMERCIAL
+
+### 1.- GE Healthcare Ultrasound
+
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/70cfb211-9f37-452a-a4b1-5b995f323bd5)
+
+Es una línea de máquinas de ultrasonido de alta calidad fabricadas por GE Healthcare. Estas máquinas se utilizan en entornos médicos para una amplia gama de aplicaciones, incluyendo evaluaciones de la tiroides. Ofrecen imágenes de alta resolución y tecnología avanzada para ayudar en el diagnóstico médico preciso.  Se destaca por su ligereza y disminuido tamaño contra la competencia
+
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/219b05c6-b1b6-447a-aa6e-4d067bdb0896)
+  * Una Imagen de Tiroides tomada con el **GE Healthcare Ultrasound**
+
+### 2.- Mindray Ultrasound
+
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/49e5c078-171b-4457-a4c3-02ade2a53840)
+
+Equipos de ultrasonido son conocidos por su calidad y precisión, utilizadas ampliamente en la detección de quistes y condiciones tiroideas. Proporcionando imágenes detalladas para ayudar en el diagnóstico médico. Son una elección confiable para profesionales de la salud en la evaluación y monitoreo de afecciones tiroideas y quistes.
+
+### 3.- Siemens Healthineers Ultrasound
+
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/340417a1-53b4-4d9f-b32d-bbed2f1e0c5d)
+
+Siemens Healthineers ofrece equipos de ultrasonido de alta calidad para aplicaciones médicas, incluyendo ecografías tiroideas. El sistema *Acuson Sequoia* es un ejemplo de su avanzada tecnología de ultrasonido, diseñado para brindar imágenes precisas y detalladas en entornos médicos, mejorando la detección y el diagnóstico de afecciones tiroideas.
+
+
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/5460674c-832f-431c-9e54-62a4810d0702)
+
+
+   * Una Imagen de Tiroides tomada con el **Siemens Healthineers Ultrasound**
+
+
+
+
+
+## ESTADO DEL ARTE (PATENTES)
+
+PSDT: Se obviaron los códigos debido a que la mayoría poseía muchos grupos al mismo tiempo.
+
+### 1.- AU2019312636 - MODELO DE CLASIFICACIÓN PARA DETECTAR GRADOS BENIGNOS Y MALIGNOS DE TUMORES DE TIROIDES, Y SU APLICACIÓN
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/fc4d4689-cabd-4415-8501-115de4e23f50)
+
+Un modelo de clasificación y un dispositivo para detectar grados benignos y malignos de tumores de tiroides, y su aplicación. El modelo clasifica los cambios de genes impresos en tumores calculando la cantidad de expresión de pérdida de genes impresos, la cantidad de expresión anormal de copias de genes impresos y la cantidad de expresión total de los genes impresos, y muestra el rendimiento de la pérdida de huellas en muestras de tejido y células. de pacientes que tienen tumores de tiroides. Mediante un método para el etiquetado in situ de genes impresos, los cambios en los genes impresos pueden detectarse de forma objetiva, visual, temprana y precisa, y puede proporcionarse un modelo cuantitativo, contribuyendo así al diagnóstico de los tumores de tiroides. 
+
+### 2.- CN109394310 - EQUIPO DE EXCISIÓN DE QUISTE SUBCUTÁNEO DE AUTONAVEGACIÓN
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/9174154a-fb45-4901-a126-ca45fff433b3)
+
+La invención se refiere a un equipo de escisión de quistes subcutáneos con navegación automática y pertenece al campo técnico de los aparatos e instrumentos médicos. El equipo comprende un dispositivo de navegación y un dispositivo de escisión; el dispositivo de navegación comprende una abrazadera, un cabezal de detección y un aparato de procesamiento, la abrazadera se usa para sujetar la piel y el tejido muscular para fijar un área de quiste, el cabezal de detección y el aparato de procesamiento se fijan a la abrazadera, el cabezal de detección detecta el área del quiste mediante ondas ultrasónicas para determinar el tamaño, la forma y la posición de un quiste, y el aparato de procesamiento está conectado eléctricamente al cabezal de detección y se usa para procesar y analizar los resultados de la detección; el dispositivo de escisión comprende un conjunto cortador, un motor impulsor y una bomba de succión. Bajo la guía del dispositivo de navegación, el quiste subcutáneo puede ser extirpado con precisión mediante el dispositivo de escisión.
+
+### 3.- CN116665886A - COMBINACIÓN DE MARCADORES DE METILACIÓN Y SISTEMA DE PREDICCIÓN DE BGENIGNIDAD Y MALIGNIDAD DEL NÓDULO TIROIDEO
+
+![image](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/f5308b4e-d924-4e6f-954f-52326ec5292a)
+
+Esta aplicación proporciona una combinación de marcadores de metilación y un sistema de predicción benigno y maligno para nódulos tiroideos; el sistema de predicción benigno y maligno para nódulos tiroideos incluye: un módulo de detección de sitios CpG para la detección utilizando tecnología de secuenciación de metilación del genoma simplificada En la combinación de marcadores de metilación de la muestra , el sitio CpG de cada marcador de metilación; el módulo de cálculo del nivel de metilación del ADN se utiliza para calcular la proporción de metilación promedio del marcador de metilación en función del sitio CpG; la proporción de metilación promedio como nivel de metilación del ADN de los marcadores de metilación; módulo de construcción de modelos para construir matemáticas modelos basados ​​en combinaciones de marcadores de metilación; módulo de cálculo de probabilidad para calcular basado en modelos matemáticos y niveles de metilación del ADN La probabilidad de predicción maligna de la muestra; el módulo de predicción benigno y maligno se utiliza para predecir los nódulos tiroideos benignos y malignos basándose en la predicción maligna probabilidad; esta aplicación utiliza un modelo matemático para distinguir los nódulos tiroideos benignos y malignos basándose en el nivel de metilación del ADN de los marcadores de metilación, logrando el propósito de un diagnóstico preciso de los nódulos tiroideos.
+
+
+
+
+
+## Requerimientos Funcionales y No Funcionales 
+### Funcionales: 
+* Detecta nódulos tiroideos con precisión
+* Mide la cantidad de agua que contienen los nódulos para señalar posible quiste
+* De detectar un quiste, a través del SAR [12] Intenta determinar su malignidad
+  
+### No Funcionales: 
+* Ser ergonómico al manejo del radiólogo
+* Ser Portátil para su uso en postas y centros de salud alejados
+* No ser costoso en comparación a máquinas similares
+
+
+## Concepto De Solución
+### Propuesta
+
+"Un Dispositivo portátil con un transductor en forma de collar que permita indicar la posibilidad de un quiste maligno utilizando la predicción SAR"
+
+El dispositivo no enviaría imágenes como tal, tan solo señalaría la presencia de un quiste tiroideo maligno en pacientes con factores de riesgo, llevando asi al paciente a ser examinado con prontitud.
+
 ## Bibliografía
 * [1].-Román-González, A., Giraldo, L. R., Monsalve, C. A., Vélez, A., & Restrepo, J. G. (2013). Nódulo tiroideo, enfoque y manejo. Revisión de la literatura. Iatreia, 26(2). https://doi.org/10.17533/udea.iatreia.14371
   
