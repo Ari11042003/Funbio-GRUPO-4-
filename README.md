@@ -19,22 +19,52 @@ Integrantes:
 
 - *Sebastian Moncada Tirado ( Coordinador de Electrónica y Programación )*
 
-## *Problemática Tentativa*
+## *CASO CLÍNICO *
 
-### **Quistes de Tarlov** 
+### **Quistes Tiroideos** 
 
-Los quistes de Tarlov, también conocidos como quistes perineurales, son sacos llenos de líquido que se forman en las raíces nerviosas en la columna vertebral, específicamente en el área del sacro o el cóccix. Estos quistes se desarrollan alrededor de las cubiertas protectoras de los nervios y pueden variar en tamaño.
+¿QUÉ SON LOS QUISTES TIROIDEOS?
+Para poder explicar la definición de un quiste tiroidal, empezaremos describiendo la lesión de la que proviene, los nódulos tiroidales. Estas son masas o áreas de incrementado tamaño dentro de la glandula tiroides, lesiones distintas al parénquima (tejido propio del órgano o sistema) que la rodea. Cuando estas lesiones contienen líquido se les denomina **quistes tiroideos** [1]. Si bien algunos de ellos en raras ocasiones generan síntomas como piel pegajosa, temblores o nerviosismo propios de los nódulos que produzcan hormonas o de los grandes que ocasionen presión contra otras estructuras del cuello, usualmente son lesiones asintomáticas, dificultando así su diagnóstico temprano. Pero con el desarrollo de nuevas técnicas radiológicas ha aumentado la frecuencia del diagnóstico y su incidencia en gran medida, es por esto que se resalta la necesidad de detectar aquellos con riesgo aumentado de ser o presentar componentes malignos, causando así el cáncer de tiroides. Debido a tener causas a veces inexplicables [2], encontrar nódulos tiroidales de manera accidental al realizar exámenes por razones distintas representa un escenario común para los médicos radiólogos ya que sumado a la ausencia de una sintomatología acentuada, en su mayoría son lesiones no palpables, puesto que los que son identificados de manera palpable solo constituye entre el 4% y el 7% de ellos [4]. Mientras que con estudios radiológicos, estas estadísticas crecen hasta en un 100%, lo que significa que se encuentran aproximadamente 10 veces más nódulos no palpables a través de tecnologías de imagen médicas, los cuales en su mayoría son benignos. [4] No obstante estudios forénses indican que entre 50% y 60% de todos los adultos pueden presentar nódulos en algún momento de sus vidas, siendo la población más afectada las mujeres (con una relación de 4:1 comparadas con los hombres) mayores a 40 años. Por eso el objetivo principal de nuestra investigación tiene como tarea lograr diferenciar entre los quistes benignos de los malignos, al tener estos últimos una alta incidencia en relación a la de los nódulos, llegando a valores como 12% de estos [3,4].
 
-### Posibles Causas
+## JUSTIFICACIÓN DE LA INVESTIGACIÓN
+### *Incidencia*
 
-La causa exacta de los quistes de Tarlov no siempre es clara, pero se cree que pueden ser el resultado de un debilitamiento de las cubiertas protectoras de los nervios (las meninges). También se ha especulado que pueden estar relacionados con el aumento de la presión del líquido cefalorraquídeo en el área.
+La iniciativa de investigación hacia nuevos metodos de detección temprana y el manejo apropiado del diagnóstico de estos crecimientos es crucial, no solo por el bienestar de los pacientes si no por el incremento desenfrenado que está teniendo a lo largo de las últimas décadas. Según un estudio publicado por la Sociedad Americana del Cáncer en el 2021, el cancer de tiroides es la enfermedad endocrina maligna más prevalente, llegando a ser responsable del 3-4% de todos los canceres a nivel mundial, llegando a un puesto de incidencia del 9no puesto para el 2020. [5] La incidencia solo en los Estados Unidos aumento de 4.9 a 14.2 por cada 100 000 personas al año, practicamente triplicando su aparición. Y en Corea del Sur, se septuplicó, desde 6,3 en 1999 a 47,5 por cada 100 000 habitantes en 2009 y sin mostrar signos de deterse según lo documentado en 2019 [3]. Incluso en Perú, desde 1997 a 2006, el 42% del total de pacientes operados por lesiones nodulares de la glándula tiroides, fue por una neoplasia maligna [6].
 
-### Complicaciones
+### *Global Burden*
 
-Muchas personas con quistes de Tarlov no presentan síntomas y pueden descubrir su presencia de manera incidental durante pruebas de imagen. Sin embargo, en algunos casos, los quistes pueden ejercer presión sobre las raíces nerviosas circundantes, lo que puede causar dolor en la región lumbar, el área sacra, los glúteos o las piernas. El dolor puede ser crónico y puede empeorar con la actividad, estar de pie o sentado durante largos períodos.
+En la ultima década se ha experimentado algo llamado una "epidemia de cancer tiroideo", a lo largo del mundo desarrollado, basandonos en estudios del Global Burden of Diseases (GBD) desde 1990 hasta 2019, se ha reportado un incremento de más del doble en países como Estados Unidos, Canada y continentes como Asia, en comparación a paises en vias de desarrollo. Es decir, estas enfermedades estan causando mayor gasto al Estado y cuentan con mayores DALYs, (Años de vida ajustados por discapacidad) [7]. Y no solo a los Estados, sino, también a miles de pacientes que no son bien informados de los gastos, de plano no pueden cubrirlos, o su calidad de vida y capacidad laboral se ve disminuida por la enfermedad [8]. Es más, desde 2013 se proyectaba que el carcinoma papilar tiroideo, doble su incidencia y se convierta en la 3ra causa más frecuente de cancer en mujeres de toda edad en Estados Unidos en 2019. Llegando a costarle al estado entre 19 y 21 billones de dolares. Por más que no se llegó a dar, hasta el momento no se le da el presupuesto adecuado y se subestima el impacto del cacner de tiroides en la sociedad.[9]
+
+
+## ESTADO DEL ARTE CIENTÍFICO
+
+Debido a los motivos previamente expuestos, el cancer de tiroides cuenta con proyectos científicos en pos de diagnosticarlos con mayor precisión y predecir su agresividad utilizando técnicas como la ultrasonografía [10]. Otros se decantan por el machine learning y la inteligencia artificial para mejorar la precisión y habilidades computables de los análisis de imágenes médicas. Ayudando así a clasificar de mejor forma las posibles lesiones tiroideas, disminuyendo también el exceso de intervención que se sospecha forma parte de los motivos de la incidencia descontrolada [11]. También invenciones innovadoras como antenas que al colocarse en el cuello (en proximidad con la glándula tiroidea), es capaz de diferenciar entre las señales de las células saludables y de las cancerosas al medir el ratio de absorción específica o SAR por sus siglas en ingles, debido a la mayor cantidad de agua contenida en las células cancerosas. [12]
+
 
 ## Bibliografía
-* 1.- Ruibal Moldes M., Sánchez Rodríguez-Losada J., López García D., Casas Agudo V., Janeiro País J.M., González Martín M.. Quiste de Tarlov y disfunción vesical sintomática. Actas Urol Esp  [Internet]. 2008  Dic [citado  2023  Sep  01] ;  32( 10 ): 1035-1036. Disponible en: http://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0210-48062008001000014&lng=es.
+* [1].-Román-González, A., Giraldo, L. R., Monsalve, C. A., Vélez, A., & Restrepo, J. G. (2013). Nódulo tiroideo, enfoque y manejo. Revisión de la literatura. Iatreia, 26(2). https://doi.org/10.17533/udea.iatreia.14371
+  
+* [2].- Haugen, B. R., Alexander, E. K., Bible, K. C., Doherty, G. M., Mandel, S. J., Nikiforov, Y. E., Pacini, F., Randolph, G. W., Sawka, A. M., Schlumberger, M., Schuff, K. G., Sherman, S. I., Sosa, J. A., Steward, D. L., Tuttle, R. M., & Wartofsky, L. (2016). 2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer: The American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid : official journal of the American Thyroid Association, 26(1), 1–133. https://doi.org/10.1089/thy.2015.0020
+  
+* [3].-Lincango-Naranjo, E., Solis-Pazmino, P., Kawkgi, O. M. E., Salazar-Vega, J., Garcia, C., Ledesma, T., Rojas, T., Alvarado-Mafla, B., Young, G. D., Dy, B. M., Ponce, O. J., & Brito, J. P. (2021). Triggers of Thyroid Cancer diagnosis: A Systematic review and Meta-analysis. Endocrine, 72(3), 644-659. https://doi.org/10.1007/s12020-020-02588-8
+  
+* [4]. Fisher, S. B., & Perrier, N. D. (2018). The incidental thyroid nodule. CA: a cancer journal for clinicians, 68(2), 97–105. https://doi.org/10.3322/caac.21447
+  
+* [5] Sung, H., Ferlay, J., Siegel, R. L., Laversanne, M., Soerjomataram, I., Jemal, A., & Bray, F. (2021). Global Cancer Statistics 2020: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. CA: a cancer journal for clinicians, 71(3), 209–249. https://doi.org/10.3322/caac.21660
+  
+* [6] Oré, Juan, & Saavedra, José. (2008). Patología quirúrgica de la glándula tiroides. Anales de la Facultad de Medicina, 69(3), 182-187. http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1025-55832008000300007&lng=es&tlng=pt.
+  
+* [7] Fang, C., Xiao, J., Shao, C., Huang, F., Wang, L., Ju, Y., & Jia, H. (2021). Burden of thyroid cancer from 1990 to 2019 and projections of incidence and mortality until 2039 in China: Findings from Global Burden of Disease study. Frontiers in Endocrinology, 12. https://doi.org/10.3389/fendo.2021.738213
+
+* [8] Broekhuis, J. M., Li, C., Chen, H. W., Chaves, N., Duncan, S., Lopez, B., Maeda, A. H., Hasselgren, P., Mowschenson, P., & James, B. C. (2021). Patient-Reported Financial burden in thyroid Cancer. Journal of Surgical Research, 266, 160-167. https://doi.org/10.1016/j.jss.2021.03.051
+
+* [9] Aschebrook-Kilfoy, B., Schechter, R. B., Shih, Y. C., Kaplan, E. L., Chiu, B. C., Angelos, P., & Grogan, R. H. (2013). The clinical and economic burden of a sustained increase in thyroid cancer incidence. Cancer epidemiology, biomarkers & prevention : a publication of the American Association for Cancer Research, cosponsored by the American Society of Preventive Oncology, 22(7), 1252–1259. https://doi.org/10.1158/1055-9965.EPI-13-0242
+
+* [10] Lee, B. (2017). Can ultrasound features predict the clinical aggressiveness of thyroid cancer? Ultrasound in Medicine and Biology, 43, S177-S178. https://doi.org/10.1016/j.ultrasmedbio.2017.08.1597
+
+* [11] Thomasian, N. M., Kamel, I. R., & Bai, H. X. (2021). Machine intelligence in non-invasive endocrine cancer diagnostics. Nature Reviews Endocrinology, 18(2), 81-95. https://doi.org/10.1038/s41574-021-00543-9
+
+* [12] A. Mohamed Abbas, P. L. Dinesh Kumar, D. Raghulraj and K. K. Suraj. (2023). Design and Implementation of a Flexible Wearable Antenna for the Detection of Cancer in the Thyroid Gland,  2nd International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN), Villupuram, India, 1-5, https://doi.org/10.1109/ICSTSN57873.2023.10151619
 
 
 
