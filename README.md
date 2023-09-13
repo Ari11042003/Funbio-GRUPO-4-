@@ -19,7 +19,7 @@ Integrantes:
 
 - *Sebastian Moncada Tirado ( Coordinador de Electrónica y Programación )*
 
-## *CASO CLÍNICO *
+## *CASO CLÍNICO*
 
 ### **Quistes Tiroideos** 
 
