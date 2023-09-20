@@ -118,6 +118,88 @@ Esta aplicación proporciona una combinación de marcadores de metilación y un 
 
 El dispositivo no enviaría imágenes como tal, tan solo señalaría la presencia de un quiste tiroideo maligno en pacientes con factores de riesgo, llevando asi al paciente a ser examinado con prontitud.
 
+
+## Caja Negra
+
+
+
+
+
+![WhatsApp Image 2023-09-19 at 11 15 23 PM](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/3c26bf8d-790c-4a33-8404-3e074b63df57)
+
+
+
+
+### Descripción:
+
+ *Entradas:*
+
+**ENERGÍA:** Energía eléctrica utilizada para dar poder al dispositivo (microcontrolador, LED y antenas)
+
+**DATOS:** Data recopilada a través del paso de las ondas “x” por el cuello, se obtienen diferentes variables E-Field, Gain, SAR, etc., que son leídas por antenas receptoras y que al ser interpretadas por el microcontrolador, arrojan positivo o negativo.
+
+ *Salidas:*
+
+**SEÑAL:** Ondas electromagnéticas emitidas a través de una antena emisora que interactúan con el tejido del cuello y son recibidas por otras o la misma antena 
+
+**LUZ:** Indicador visual en forma de luz LED que indica presencia de tejido canceroso presente.
+
+## Esquema de Funciones
+
+
+
+
+![WhatsApp Image 2023-09-19 at 11 21 46 PM](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/cf33ad00-1357-4842-a45d-9e98f5a8f7b6)
+
+
+
+
+**REGULAR:** Regular la cantidad de energía eléctrica de entrada para alimentar el microcontrolador y las señales de salida.
+
+**EMITIR:** Función de la antena que cumple con emitir una señal en forma de ondas de radiación electromagnética.
+
+**RECIBIR:** Función de la antena que cumple con recibir la señal emitida por la antena después de interactuar con el paciente.
+
+**PROCESAR:** Función del microcontrolador encargado de verificar si las señales recibidas se encuentran dentro de ciertos rangos.
+
+**MOSTRAR:** Función que muestra el resultado de la inspección, positivo o negativo dependiendo de las señales recibidas.
+
+
+## Matriz morfológica
+
+
+
+
+![WhatsApp Image 2023-09-19 at 11 47 11 PM](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/ab14a177-4c8f-4769-8900-eeb536623ced)
+
+
+
+
+
+
+
+
+## Tabla de Valoración
+
+
+
+![WhatsApp Image 2023-09-19 at 11 49 47 PM](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/3b523c9b-d8b3-43bb-91f5-a1275f7e1abc)
+
+
+
+
+
+
+
+
+
+## Conclusión
+La propuesta CS1 fue seleccionada por su portabilidad, tanto por el tamaño como por la opción de utilizar una antena que se pueda doblar y "vestir", se utilizaría como antena emisora y receptora según la literatura y daría valores distintos en cuanto a E-Field, H-Field, Gain, etc. se refiere, en comparación con las células saludables. También su facil relegación de información, basado en luces LED.  Y mantenerse dentro del límite de SAR permitido para el uso humano.
+
+
+
+
+
 ## Bibliografía
 * [1].-Román-González, A., Giraldo, L. R., Monsalve, C. A., Vélez, A., & Restrepo, J. G. (2013). Nódulo tiroideo, enfoque y manejo. Revisión de la literatura. Iatreia, 26(2). https://doi.org/10.17533/udea.iatreia.14371
   
