@@ -225,6 +225,7 @@ La propuesta CS1 fue seleccionada por su portabilidad, tanto por el tamaño como
 
 * [12] A. Mohamed Abbas, P. L. Dinesh Kumar, D. Raghulraj and K. K. Suraj. (2023). Design and Implementation of a Flexible Wearable Antenna for the Detection of Cancer in the Thyroid Gland,  2nd International Conference on Smart Technologies and Systems for Next Generation Computing (ICSTSN), Villupuram, India, 1-5, https://doi.org/10.1109/ICSTSN57873.2023.10151619
 
+## Bocetos
 
 
 
