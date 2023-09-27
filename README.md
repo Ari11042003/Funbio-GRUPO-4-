@@ -188,7 +188,10 @@ El dispositivo no enviaría imágenes como tal, tan solo señalaría la presenci
 
 
 
+![WhatsApp Image 2023-09-26 at 11 48 35 PM (1)](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/af01121f-a36c-46de-9987-622a56723766)
 
+
+![WhatsApp Image 2023-09-26 at 11 48 41 PM (1)](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143019044/1d3f1595-d1ec-4cf1-a1e2-98ffc8cb17e8)
 
 
 
