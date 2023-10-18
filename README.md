@@ -130,6 +130,10 @@ BOCETO 3:
 
   [Schematic_GRUPO 4 V1_2023-10-18.pdf](https://github.com/Sebas312431/Funbio-GRUPO-4-/files/13031283/Schematic_GRUPO.4.V1_2023-10-18.pdf)
 
+-  Modelado 3D de los componentes por separado:
+
+  https://sketchfab.com/sofipinco/models
+
 
 ## Bibliografía
 
