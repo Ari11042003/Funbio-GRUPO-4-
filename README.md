@@ -80,6 +80,7 @@ El problema radica en el poco uso que se le da a la realidad aumentada (AR) en l
 
 ## Conclusión
 
+## Bocetos
 
 ## Bibliografía
 
@@ -98,8 +99,6 @@ El problema radica en el poco uso que se le da a la realidad aumentada (AR) en l
 [7] PuntoEdu. (2015). Un análisis de las particularidades de la lengua de señas peruana. PuntoEdu PUCP. https://puntoedu.pucp.edu.pe/noticia/un-analisis-de-las-particularidades-de-la-lengua-de-senas-peruana/
 
 [8] Parmaxi, A., & Demetriou, A. A. (2020). Augmented Reality in Language Learning: A State‐of‐the‐art review of 2014–2019. Journal of Computer Assisted Learning, 36(6), 861-875. https://doi.org/10.1111/jcal.12486
-
-## Bocetos
 
 
 
