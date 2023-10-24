@@ -62,11 +62,16 @@ El ITY cuenta con un módulo de traducción española que, con el simple clic de
 ![aaaaa](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/f551dbfc-3043-4ae5-832e-cffd20f0e37e)
 
 **2. HETAH**
+
 Este aplicativo realiza una búsqueda de señas analizando la frase en su estructura gramatical, haciendo énfasis en el país origen y realizando el deletreo de las palabras en caso de no encontrar equivalencia.
 
 ![HETAH](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/58d9206d-dbe7-48cb-bdf9-592a824563f0)
 
+**3. KINESIKA**
 
+App mediante el cual una persona sorda puede llegar a comunicarse con una persona oyente, gracias a que cuenta con un teclado en señas y un avatar traduce las palabras a señas
+
+![kinesica](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/1556db71-5868-4a28-ab63-90da03df0fac)
 
 
 ## ESTADO DEL ARTE (PATENTES)
@@ -91,21 +96,30 @@ La presente divulgación se refiere a un sistema de lectura de texto e interpret
 
 ## Requerimientos Funcionales y No Funcionales 
 ### Funcionales: 
-  
+  -  Traducir letras del lenguaje de señas al lenguaje verbal
+  -  Traducir en tiempo real
+  -  Diferenciar datos de muestra 
 ### No Funcionales: 
-
+  -  Económico
+  -  Uso inteligible
+  -  Ensamblaje sencillo
 ## Concepto De Solución
+### Propuesta:
 
-
-### Propuesta
+"Dispositivo auxiliar de aprendizaje de lenguaje de señas capaz de lograr traducción de letras  a tiempo real".
 
 ## Caja Negra
+
+
 
 ### Descripción:
 
 ## Esquema de Funciones
 
 ## Matriz morfológica
+
+![matriz morfológica](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/821f483c-fc93-4ee4-a3f9-a7e7fb136942)
+
 
 ## Tabla de Valoración
 
