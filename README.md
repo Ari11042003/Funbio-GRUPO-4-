@@ -166,6 +166,9 @@ BOCETO 3:
 
 https://www.canva.com/design/DAFyNMveCmY/yENjXOOHMzEfkIMqzJa8ww/edit
 
+[Presentación Historia Aesthetic Beige Pastel.pptx](https://github.com/Sebas312431/Funbio-GRUPO-4-/files/13169057/Presentacion.Historia.Aesthetic.Beige.Pastel.pptx)
+
+
 ## Bibliografía
 
 [1] Tovar, L.  (2011). La importancia del estudio de las lenguas de señas.
