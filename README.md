@@ -145,6 +145,10 @@ BOCETO 3:
 
 ![WhatsApp Image 2023-10-18 at 01 33 18](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/44ca97a9-8073-4215-8a13-553dc711fab3)
 
+## Tabla de Valoración Técnica:
+
+## Tabla de Valoración Económica:
+
 ## ENTREGABLE 5:
 
 -  Diseño esquemático:
