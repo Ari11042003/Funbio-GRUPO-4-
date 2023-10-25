@@ -21,7 +21,7 @@ Integrantes:
 
 ## CASO CLÍNICO
 
-Este lenguaje de señas es una lengua natural que se diferencia de las lenguas orales al utilizar el canal de comunicación viso-gestual en vez de el audio-vocal. Han estado en uso en comunidades sordas de todo el mundo desde la antigüedad, pero es a partir del Siglo XVIII que empezaron a ser utilizadas por educadores. En los últimos 100 años su estatus bajó considerablemente cuando surgió la creencia que todos los sordos podían ser asimilados dentro de la comunidad oyente terapéuticamente, creencia la cual se acrecentó debido a la ignorancia y falta de interés frente a los estudios sobre las señas. No sería hasta 1960, cuando el lingüista norteamericano Stokoe demostró que las lenguas de señas, eran lenguas susceptibles de descripción lingüística [1]. Adicionalmente se tiene que el lenguaje de señas es definido como “cualquier medio de comunicación a través de movimientos corporales, especialmente de las manos y brazos, usados cuando la comunicación por medio de palabras, hablada, no es posible”[2].
+El lenguaje de señas es una lengua natural que se diferencia de las lenguas orales al utilizar el canal de comunicación viso-gestual en vez de el audio-vocal. Han estado en uso en comunidades sordas de todo el mundo desde la antigüedad, pero es a partir del Siglo XVIII que empezaron a ser utilizadas por educadores. En los últimos 100 años su estatus bajó considerablemente cuando surgió la creencia que todos los sordos podían ser asimilados dentro de la comunidad oyente terapéuticamente, creencia la cual se acrecentó debido a la ignorancia y falta de interés frente a los estudios sobre las señas. No sería hasta 1960, cuando el lingüista norteamericano Stokoe demostró que las lenguas de señas, eran lenguas susceptibles de descripción lingüística [1]. Adicionalmente se tiene que el lenguaje de señas es definido como “cualquier medio de comunicación a través de movimientos corporales, especialmente de las manos y brazos, usados cuando la comunicación por medio de palabras, hablada, no es posible”[2].
 
 ## JUSTIFICACIÓN DE LA INVESTIGACIÓN
 ### *Incidencia*
@@ -106,7 +106,7 @@ La presente divulgación se refiere a un sistema de lectura de texto e interpret
 ## Concepto De Solución
 ### Propuesta:
 
-"Dispositivo auxiliar de aprendizaje de lenguaje de señas capaz de lograr traducción de letras  a tiempo real".
+"Dispositivo auxiliar de aprendizaje de lenguaje de señas".
 
 ## Caja Negra
 
