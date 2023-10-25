@@ -128,7 +128,8 @@ La presente divulgación se refiere a un sistema de lectura de texto e interpret
 
 
 ## Tabla de Valoración
-![Captura de pantalla 2023-10-24 170227](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/b5e6d399-85ee-45fc-a207-50887917ad0b)
+![Captura de pantalla 2023-10-25 094057](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/5d7f3d81-bb14-4de8-aa63-1642505439d9)
+
 
 ## Conclusión
 Después de realizar la tabla de valoración y la matriz morfológica concluimos en que la solución que utilizaremos será la CS1, que si bien no es la más rentable económicamente nos conviene en los demás aspectos para elaborar un buen proyecto que nos sea útil para el fin deseado.
