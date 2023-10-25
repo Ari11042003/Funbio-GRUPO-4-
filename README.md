@@ -160,7 +160,9 @@ BOCETO 3:
 -  Modelado 3D de los componentes por separado:
 
   https://sketchfab.com/sofipinco/models
+## PRESENTACIÓN HITO 1:
 
+https://www.canva.com/design/DAFyNMveCmY/yENjXOOHMzEfkIMqzJa8ww/edit
 
 ## Bibliografía
 
