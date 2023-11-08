@@ -1,31 +1,26 @@
-import RPi.GPIO as GPIO
-import picamera
-import time
 import tkinter as tk
+import cv2
 
-# Configurar el pin de detección de energía
-PIN_DETECCION_ENERGIA = 17 # el 17 es solo de ejemplo por mientras
-
-def inicializar():
-    GPIO.setmode(GPIO.BCM)
-    GPIO.setup(PIN_DETECCION_ENERGIA, GPIO.IN)
+# Inicializar la cámara USB
+camera = cv2.VideoCapture(0)
 
 def encender_camara():
-    with picamera.PiCamera() as camera:
-        camera.start_preview()
-        while not GPIO.input(PIN_DETECCION_ENERGIA):
-            time.sleep(1)
-        camera.stop_preview()
+    global camera
+    while True:
+        ret, frame = camera.read()
+        cv2.imshow("Cámara", frame)
+        if cv2.waitKey(1) & 0xFF == ord('q'):
+            break
 
 def modo_traduccion():
-    # Código específico del modo de traducción
+    # Código del modo de traducción
     print("Modo Traducción Activado")
     continuar = input("¿Deseas continuar en el modo de traducción? (s/n): ")
     if continuar.lower() == 'n':
         opciones_pantalla_tactil()
 
 def modo_interactivo():
-    # Código específico del modo interactivo
+    # Código del modo interactivo
     print("Modo Interactivo Activado")
     continuar = input("¿Deseas continuar en el modo interactivo? (s/n): ")
     if continuar.lower() == 'n':
@@ -54,14 +49,13 @@ def opciones_pantalla_tactil():
 
     ventana.mainloop()
 
-
 def apagar_camara():
-    
-    GPIO.cleanup()  
+    global camera
+    camera.release()
+    cv2.destroyAllWindows()
 
 if __name__ == "__main__":
     try:
-        inicializar()
         encender_camara()
         opciones_pantalla_tactil()
 
@@ -69,5 +63,5 @@ if __name__ == "__main__":
         pass
 
     finally:
-        GPIO.cleanup()
-        
+        apagar_camara()
+
