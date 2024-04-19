@@ -44,9 +44,7 @@ Durante los últimos 40 años, estudios han mostrado que los niños con discapac
 
 ## ESTADO DEL ARTE - EVIDENCIA CIENTIFICA
 
-El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada.
-
-[1] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
+El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada [12].
 
 En el caso de  nuestro proyecto, debido a la rama tocada en clase, lo direccionamos a solucionar la problematica de manera tecnologica, por ende, se realiza la busqueda de articulos provenientes de fuentes viables y verificables que hagan referencia al uso de soluciones tecnologicas aplicadas a la problematica asignada 
 
@@ -85,3 +83,6 @@ El problema radica en el poco uso que se le da a la realidad aumentada (AR) en l
 (10) «OMPI – Búsqueda en las colecciones de patentes nacionales e internacionales». https://patentscope.wipo.int/search/es/detail.jsf?docId=MX175220301&_cid=P10-LO5RC9-89047-1
 
 (11) «OMPI – Búsqueda en las colecciones de patentes nacionales e internacionales». https://patentscope.wipo.int/search/es/detail.jsf?docId=MX214745749&_cid=P10-LO5RD0-89694-1
+
+(12) N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
+
