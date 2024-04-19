@@ -46,6 +46,9 @@ Durante los últimos 40 años, estudios han mostrado que los niños con discapac
 
 El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada.
 
+[1] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
+
+
 El uso de realidad aumentada en contextos educacionales posee un inmenso potencial en revolucionar el aprendizaje así como la mejora del mismo aparte de aportar un soporte eficaz para los estudiantes con habilidades especiales.
 
 La realidad aumentada tiene potencial en la enseñanza del lenguaje de signos, ya que la letra marcada en una tarjeta multimedia puede aumentarse con el movimiento animado de la mano en 3D para la letra respectiva mostrada en tiempo real, aunque el movimiento de las manos del profesor también es necesario para que los estudiantes logren captar lo enseñado [8]. 
