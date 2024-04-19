@@ -48,7 +48,9 @@ El estado del arte se refiere a una técnica de investigación documental que fa
 
 [1] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
 
-En nuestro caso nuestro proyecto lo estamos direccionando a solucionar una problematica de manera tecnologica por ende haremos la busqueda de articulos cientificos que hagan referencia al uso de soluciones tecnologicas aplicadas a la problematica asignada 
+En nuestro caso nuestro proyecto lo estamos direccionando a solucionar una problematica de manera tecnologica por ende, haremos la busqueda de articulos cientificos mediante la busqueda de articulos cientificos de fuentes viables y verificables que hagan referencia al uso de soluciones tecnologicas aplicadas a la problematica asignada 
+
+---
 
 El uso de realidad aumentada en contextos educacionales posee un inmenso potencial en revolucionar el aprendizaje así como la mejora del mismo aparte de aportar un soporte eficaz para los estudiantes con habilidades especiales.
 
