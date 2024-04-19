@@ -42,12 +42,13 @@ Durante los últimos 40 años, estudios han mostrado que los niños con discapac
 ![imagen1](https://github.com/Sebas312431/Funbio-GRUPO-4-/assets/143362889/0ef0eee7-9c21-4c8a-b99d-d3fea0eda168)
 > Figura 1. Un análisis de las particularidades de la lengua de señas peruana [7].
 
-## ESTADO DEL ARTE CIENTÍFICO
+## ESTADO DEL ARTE - EVIDENCIA CIENTIFICA
 
 El estado del arte se refiere a una técnica de investigación documental que facilita el análisis del conocimiento previamente desarrollado y registrado en textos en un campo específico. Al llevar a cabo un estado del arte, se fomenta la difusión de información, se estimula la búsqueda de conocimiento y se permite la comparación con otros cuerpos de conocimiento similares, lo que ofrece diversas perspectivas para entender el problema abordado. En resumen, proporciona múltiples enfoques para el estudio de una cuestión determinada.
 
 [1] N. P.  Molina, "HERRAMIENTAS PARA INVESTIGAR ¿Qué es el estado del arte?," Ciencia y Tecnología para la salud Visual y Ocular, no. 5, pp. 1 - 3, Julio - diciembre 2005.
 
+En nuestro caso nuestro proyecto lo estamos direccionando a solucionar una problematica de manera tecnologica por ende haremos la busqueda de articulos cientificos que hagan referencia al uso de soluciones tecnologicas aplicadas a la problematica asignada 
 
 El uso de realidad aumentada en contextos educacionales posee un inmenso potencial en revolucionar el aprendizaje así como la mejora del mismo aparte de aportar un soporte eficaz para los estudiantes con habilidades especiales.
 
